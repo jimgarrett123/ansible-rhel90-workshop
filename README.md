@@ -1,6 +1,6 @@
-Ansible RHEL 90 Workshop
+**Ansible RHEL 90 Workshop**
 
-What you will learn
+**What you will learn**
 * Overview of public cloud provisioning
 * Converting shell commands into Ansible commands
 * Retrieving information from hosts
